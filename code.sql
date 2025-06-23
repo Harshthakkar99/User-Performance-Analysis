@@ -13,10 +13,6 @@ SELECT * FROM user_submissions;
 
 -- Q.1 List all distinct users and their stats (return user_name, total_submissions, points earned)
 
--- SELECT 
--- 	COUNT(DISTINCT username)
--- FROM user_submissions
-
 
 SELECT 
 	username,
