@@ -14,22 +14,6 @@ CREATE TABLE user_submissions (
 
 SELECT * FROM user_submissions;
 
-
--- Q.1 List all distinct users and their stats (return user_name, total_submissions, points earned)
--- Q.2 Calculate the daily average points for each user.
--- Q.3 Find the top 3 users with the most positive submissions for each day.
--- Q.4 Find the top 5 users with the highest number of incorrect submissions.
--- Q.5 Find the top 10 performers for each week.
-
-
--- Please note for each questions return current stats for the users
--- user_name, total points earned, correct submissions, incorrect submissions no
-
-
--- -------------------
--- My Solutions
--- -------------------
-
 -- Q.1 List all distinct users and their stats (return user_name, total_submissions, points earned)
 
 -- SELECT 
